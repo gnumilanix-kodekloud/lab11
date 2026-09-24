@@ -41,6 +41,7 @@ If the installation was successful, you should be able to run the following comm
 
 ## Run Code Coverage
     $ npm run coverage
+    
 
 ## Run Application
     $ npm start
